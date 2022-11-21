@@ -1,0 +1,699 @@
+path/ikaros/wavs3/1.wav|そらのおとしもの、ふぉるて
+path/ikaros/wavs3/2.wav|どりーみーしーずん
+path/ikaros/wavs3/3.wav|はじめからです
+path/ikaros/wavs3/4.wav|つづきからです
+path/ikaros/wavs3/5.wav|おぷしょんです
+path/ikaros/wavs3/6.wav|ともこれ、マスターのおもいで、いっぱい
+path/ikaros/wavs3/7.wav|こみゅにけーしょん、したいです
+path/ikaros/wavs3/8.wav|思い出
+path/ikaros/wavs3/9.wav|たのしかったこと
+path/ikaros/wavs3/10.wav|ぶかつ、たのしいです
+path/ikaros/wavs3/11.wav|あなたも、いっしょに
+path/ikaros/wavs3/12.wav|これでよろしいのでしょうか
+path/ikaros/wavs3/13.wav|こちらをきゃんせるなさるのですね
+path/ikaros/wavs3/14.wav|おかえりなさいませ
+path/ikaros/wavs3/15.wav|ずいぶんおそいおかえりですね
+path/ikaros/wavs3/16.wav|ごせつめ、させていただきます
+path/ikaros/wavs3/17.wav|おめでとう、ございます
+path/ikaros/wavs3/18.wav|これで、せんぱ、です
+path/ikaros/wavs3/19.wav|おにあいです
+path/ikaros/wavs3/20.wav|なにかごようですか、マスター
+path/ikaros/wavs3/21.wav|マスター、どうりょくろか、いいえ、なんでもありません
+path/ikaros/wavs3/22.wav|そらのおとしもの、ふぉるて、どりーみーしーずん
+path/ikaros/wavs3/23.wav|マスターも、うれしいのですか
+path/ikaros/wavs3/24.wav|だいじょうぶです、いっしょうありません
+path/ikaros/wavs3/25.wav|おのぞみとあれば
+path/ikaros/wavs3/26.wav|マスター、なんなりとごめいれいしてください
+path/ikaros/wavs3/27.wav|これが、うれしいということなんでしょうか
+path/ikaros/wavs3/28.wav|にやり
+path/ikaros/wavs3/29.wav|エンジェロイドのからだに、きょうみがおありですか
+path/ikaros/wavs3/30.wav|マスター、あ、あの
+path/ikaros/wavs3/31.wav|マスターがたのしいと、わたしもうれしいです
+path/ikaros/wavs3/32.wav|たいおん、わずかにじょうしょう、かつどうにししょうはありません
+path/ikaros/wavs3/33.wav|マスターといっしょだと、なんだかぽかぽかします
+path/ikaros/wavs3/34.wav|どうりょくろが、いたいです
+path/ikaros/wavs3/35.wav|このかんかくは、なんでしょう
+path/ikaros/wavs3/36.wav|ほかにごめいれいは
+path/ikaros/wavs3/37.wav|そわそわ
+path/ikaros/wavs3/38.wav|みゃくはくが、みだれています、かつどうにししょうはありません
+path/ikaros/wavs3/39.wav|おろおろ
+path/ikaros/wavs3/40.wav|マスターので、あたたかい
+path/ikaros/wavs3/41.wav|マスターのようなにんには、はじめてあいました
+path/ikaros/wavs3/42.wav|マスター、どうかおそばに
+path/ikaros/wavs3/43.wav|あなたがたのしめることをなんなりと、マイマスター
+path/ikaros/wavs3/44.wav|マスター、もっとわたしといっしょに
+path/ikaros/wavs3/45.wav|マスターがおのぞみなら、わたしは
+path/ikaros/wavs3/46.wav|みゃくはくが、みだれています、かつどうにししょうは、ありません
+path/ikaros/wavs3/47.wav|あのに、ちさいしょにであったのが、マスターでよかったです
+path/ikaros/wavs3/48.wav|わたしは、だいすきなマスターを、まもります
+path/ikaros/wavs3/51.wav|それが、おのぞみなら
+path/ikaros/wavs3/52.wav|このようなことを、おのぞみなのですか
+path/ikaros/wavs3/53.wav|わたしは、エンジェロイド、マスターの、どうぐ
+path/ikaros/wavs3/54.wav|これは、ばつですか
+path/ikaros/wavs3/55.wav|どうりょくろが、ざわつきます
+path/ikaros/wavs3/56.wav|これは、かなしみ
+path/ikaros/wavs3/57.wav|わたしは、あいがんようですから
+path/ikaros/wavs3/58.wav|わたしは、どうすればいいのでしょう
+path/ikaros/wavs3/59.wav|へいきとして、あつかわれるよりは
+path/ikaros/wavs3/61.wav|人とは、やはりちがいますか
+path/ikaros/wavs3/62.wav|マスター
+path/ikaros/wavs3/63.wav|あの、こまります、マスター
+path/ikaros/wavs3/64.wav|わたしは、人ではありませんから
+path/ikaros/wavs3/65.wav|そのようなことは
+path/ikaros/wavs3/66.wav|マスターが、どうしてもと、おしえられるなら
+path/ikaros/wavs3/67.wav|わたし、わ
+path/ikaros/wavs3/68.wav|あのマスター、一体なにを
+path/ikaros/wavs3/69.wav|マスターは、じょせいがすきなんですね
+path/ikaros/wavs3/70.wav|それではマスター、ふくさんのていれをおねがいします
+path/ikaros/wavs3/71.wav|マスター、なにかおかんがえなかですか
+path/ikaros/wavs3/72.wav|あの、ふくさんのおていれは
+path/ikaros/wavs3/73.wav|あ、ふくさん、あばれないでください
+path/ikaros/wavs3/74.wav|さすがです、マスター、ふくさんのきげんがなおったようです
+path/ikaros/wavs3/75.wav|ふくさんが、きげんをなおしてくれました、おていれのつづきはおねがいします
+path/ikaros/wavs3/76.wav|あー、ふくさん、そんなにあばれてはだめです
+path/ikaros/wavs3/77.wav|だいじょうぶですかマスター、おけがはありませんか
+path/ikaros/wavs3/78.wav|ふくさんまんぞくしたようです、ありがとうございました、マスター
+path/ikaros/wavs3/79.wav|マスター、ふくさん、おごでてしまったようです
+path/ikaros/wavs3/80.wav|わたしのかみがどうかしましたか
+path/ikaros/wavs3/81.wav|マスターのては、すごくきもちいいです
+path/ikaros/wavs3/82.wav|わたしのかみも、おていれしてもらえるのですか
+path/ikaros/wavs3/83.wav|わたしにしてくださるように、ふくさんにもしてあげてください
+path/ikaros/wavs3/84.wav|あの、マスター
+path/ikaros/wavs3/85.wav|かおが、あつくなってきたきがします
+path/ikaros/wavs3/86.wav|マスターがちかくて、うれしいです
+path/ikaros/wavs3/87.wav|うれしいのですが、いまは、ふくさんのてでもおねがいします
+path/ikaros/wavs3/88.wav|わたしがみてると、マスターはおこまりですか
+path/ikaros/wavs3/89.wav|はい、わたしのしかいには、マスターしかいません
+path/ikaros/wavs3/90.wav|はい、なんでしょうか
+path/ikaros/wavs3/91.wav|あの、わたしより、ふくさんのおていれは
+path/ikaros/wavs3/92.wav|くちびるのていれもするのでしょうか
+path/ikaros/wavs3/93.wav|わたしのくちびるが、きになりますか
+path/ikaros/wavs3/94.wav|なぜでしょう、どうりょくろのちょうしが、へんです
+path/ikaros/wavs3/95.wav|マスター、あの、そこはふくではないんですが
+path/ikaros/wavs3/96.wav|みみがきになりますか
+path/ikaros/wavs3/99.wav|あ、わたしはいいですから、ふくさんにしてあげてください
+path/ikaros/wavs3/100.wav|マスター、ふくさんも嬉しいそうです
+path/ikaros/wavs3/101.wav|そうやっておていれするのですね、べんきょうになります
+path/ikaros/wavs3/102.wav|ぶらっしんぐですね、かぜまよいですが、がまんします
+path/ikaros/wavs3/103.wav|ふくさんよろこんでいます、さすがですました
+path/ikaros/wavs3/104.wav|りぼんがどうかしましたか
+path/ikaros/wavs3/105.wav|りぼんはごせんもんなのでしたら、どうぞ
+path/ikaros/wavs3/106.wav|マスターは、りぼんがおすきなんですね
+path/ikaros/wavs3/107.wav|ひっぱるととけて、そちらのほうがマスターのこのみなのでしょうか
+path/ikaros/wavs3/108.wav|はくいのてんしですか、ふくはぴんく色ですが
+path/ikaros/wavs3/109.wav|そこは、エンジェロイドとっての
+path/ikaros/wavs3/110.wav|はねのおていれ、ありがとうございますマスター
+path/ikaros/wavs3/111.wav|あの、その、なんでもないです
+path/ikaros/wavs3/112.wav|これは、マスターとのたいせつなつながりです
+path/ikaros/wavs3/113.wav|これは、とてもだいじなものです
+path/ikaros/wavs3/114.wav|くさりがよごれていましたか、すみませんました
+path/ikaros/wavs3/115.wav|マスターのおもうままに
+path/ikaros/wavs3/116.wav|はい、ちゅうしゃき、かたのくっしょんです
+path/ikaros/wavs3/117.wav|これですか、その、やわらかいです
+path/ikaros/wavs3/118.wav|マスターも、くっしょんになりたい、りょうしへんかんきはごよういしますか
+path/ikaros/wavs3/119.wav|あの、くっしょんよりも、ふくさんをさわってあげてください
+path/ikaros/wavs3/120.wav|はい、ほうたいです、マスターおけがはしてませんか
+path/ikaros/wavs3/121.wav|ほうたいでめかくし、マスターはそういうのがおすきなのですか
+path/ikaros/wavs3/122.wav|ほうたいがひつようですか、どこかおけがを
+path/ikaros/wavs3/123.wav|マスターのおもちのほんにのってましたが、ほうたいでしばるのはどういういみなのですか
+path/ikaros/wavs3/124.wav|あー、ふくさんあばれないでください
+path/ikaros/wavs3/125.wav|どうぞ、マスターののぞむことをなんなりと
+path/ikaros/wavs3/126.wav|わたしはマスターをしんじています
+path/ikaros/wavs3/127.wav|あのー、マスター、どうかされましたか
+path/ikaros/wavs3/128.wav|いつまでこうしていればよろしいのでしょうか
+path/ikaros/wavs3/129.wav|しんぱくすうのじょうしょうによるえらーはっせい、あるてみすはっしゃしーけんすにいこう
+path/ikaros/wavs3/130.wav|はっしゃしーけんすのかいじょをかくにん、すみませんでしたマスター
+path/ikaros/wavs3/131.wav|ぜん弾めいちゅう、あ、あの、だいじょうぶですか、マスター
+path/ikaros/wavs3/132.wav|さがしものはみつかったようですね、さすがはマスターです
+path/ikaros/wavs3/133.wav|そのしーるをさがしていたのですね、マスター
+path/ikaros/wavs3/134.wav|マスター、あのすみません、あとかたづけけがあるので、しつれいします
+path/ikaros/wavs3/135.wav|マスター、あの、わたしはこれでしつれいします
+path/ikaros/wavs3/136.wav|どうでしょう、なにかみつかりましたか
+path/ikaros/wavs3/137.wav|あ、とてもここちいいです
+path/ikaros/wavs3/138.wav|マスターのてつき、とてもやさしいです
+path/ikaros/wavs3/139.wav|マスターがわたしをなでなでしてくれる
+path/ikaros/wavs3/140.wav|マスターがちかいと、うれしいです
+path/ikaros/wavs3/141.wav|マスター、わたし、なんだかしあわせです
+path/ikaros/wavs3/142.wav|うん、いいえ、なんでもありません
+path/ikaros/wavs3/143.wav|かおがあついです
+path/ikaros/wavs3/144.wav|あの、マスター、あまりちかづかれると
+path/ikaros/wavs3/145.wav|はい、なんでしょうか、マスター
+path/ikaros/wavs3/146.wav|マスターが、わたしだけをみている
+path/ikaros/wavs3/147.wav|みつめられると、どうりょくろが、あつくなります
+path/ikaros/wavs3/149.wav|くちのなかをかくにんするのですか
+path/ikaros/wavs3/150.wav|うん、マスターのあじがします
+path/ikaros/wavs3/151.wav|からだがあつくなって、わたしどうしてしまったんでしょうか
+path/ikaros/wavs3/152.wav|マスターのては、とてもあんしんします
+path/ikaros/wavs3/153.wav|うん、そんなおくまで
+path/ikaros/wavs3/154.wav|マスター、あの、ますますします
+path/ikaros/wavs3/155.wav|りぼんが、どうかしたのでしょうか
+path/ikaros/wavs3/156.wav|マスター、さがしものはみつかりましたか
+path/ikaros/wavs3/157.wav|りぼんがきになるのですか
+path/ikaros/wavs3/158.wav|あねをひろげたほうがしらべやすいでしょうか
+path/ikaros/wavs3/159.wav|すぐそばに、マスターをかんじます
+path/ikaros/wavs3/160.wav|マスターがさわってくれると、うれしいです
+path/ikaros/wavs3/161.wav|くさりにゆびをいれると、きけんです
+path/ikaros/wavs3/162.wav|このくさりが、マスターとわたしをつなげてるんですね
+path/ikaros/wavs3/163.wav|このくさりはのびるので、ひっぱられてもだいじょうぶです
+path/ikaros/wavs3/164.wav|わたし、マスターと、もっとつながっていたいです
+path/ikaros/wavs3/165.wav|なんというか、しっくりきます
+path/ikaros/wavs3/166.wav|すいか、かわいいです
+path/ikaros/wavs3/167.wav|マスターになでられて、すいかさんもうれそうです
+path/ikaros/wavs3/168.wav|マスターもすいかがすき、なんだかうれしいです
+path/ikaros/wavs3/169.wav|マスター、わたしにも、にーふにしたみたいにしてください
+path/ikaros/wavs3/170.wav|マスター？おつかれなのでしょうか
+path/ikaros/wavs3/171.wav|あの、どうかされましたか
+path/ikaros/wavs3/172.wav|マスターのしんぱくすう、たいようのじょうしょうをかくにん、このままではばくはつのきけんがあります
+path/ikaros/wavs3/173.wav|しんぱくすう、たいおんともに、へいじょうあたいへかこう、さすがはマスターです
+path/ikaros/wavs3/174.wav|ばくはつはかいひしましたが、きけんなじょうきょうです、マスター
+path/ikaros/wavs3/175.wav|なんだかぽかぽかします、ありがとうございました、マスター
+path/ikaros/wavs3/176.wav|マスターは、わたしがおきらいなのですか
+path/ikaros/wavs3/177.wav|なんだか、ふわふわします
+path/ikaros/wavs3/178.wav|あの、マスターもうれしいのでしょうか
+path/ikaros/wavs3/179.wav|わたしのかみが、おきにめしたのでしょうか
+path/ikaros/wavs3/180.wav|あの、もうおわりなのですか
+path/ikaros/wavs3/181.wav|やさしくおすのが、まっさーじのこつなのですね
+path/ikaros/wavs3/182.wav|マスターにされると、その、あたたかいです
+path/ikaros/wavs3/183.wav|かおをまっさーじしたら、えがおになれますか
+path/ikaros/wavs3/184.wav|ひょうしょうがかたい、ですか
+path/ikaros/wavs3/185.wav|なんだか、かおがやわらかくなったきがします
+path/ikaros/wavs3/186.wav|どうしました、マスター
+path/ikaros/wavs3/187.wav|はい、わたしはマスターだけをみています
+path/ikaros/wavs3/188.wav|そんなに、みつめられると
+path/ikaros/wavs3/189.wav|マスターは、ぷにぷにがおすきなのですか
+path/ikaros/wavs3/190.wav|そんなにつんつんされると、その、こまります
+path/ikaros/wavs3/191.wav|こうかくをあげる、すみませんうまくできません
+path/ikaros/wavs3/192.wav|あ、あの、すみません、なれていないので
+path/ikaros/wavs3/193.wav|あ、ゆびをいれるときけんです
+path/ikaros/wavs3/194.wav|みみもふられるときもちいいのですね
+path/ikaros/wavs3/195.wav|なんだか、ますますします
+path/ikaros/wavs3/196.wav|まっさーじしやすいですか、よかったです
+path/ikaros/wavs3/197.wav|えぷらんだけのほうがよかったですか、なんでも、おとこのろまんだとか
+path/ikaros/wavs3/198.wav|えぷろんをはずしたほうがよろしいのでしょうか、マスター
+path/ikaros/wavs3/199.wav|このふくそうは、おきにめしたでしょうか
+path/ikaros/wavs3/200.wav|その、マスターもりぼんをつけますか
+path/ikaros/wavs3/201.wav|りぼんだけのかっこうがおこのみでしたか、マスターのほんにかいてあったので
+path/ikaros/wavs3/202.wav|りぼんがひつようでしたら、かーどであつめますか
+path/ikaros/wavs3/203.wav|りぼんでしばる、もうかみならしばってますが
+path/ikaros/wavs3/204.wav|あ、いいえ、ちょっとおどろいただけです
+path/ikaros/wavs3/205.wav|そこは、いいえ、なんでもありません
+path/ikaros/wavs3/206.wav|はねから、マスターのあたたかさをかんじます
+path/ikaros/wavs3/207.wav|あの、そこはちょっとくすぐったいです
+path/ikaros/wavs3/208.wav|マスターとわたしのつながりです
+path/ikaros/wavs3/209.wav|あの、なにかおかしいですか
+path/ikaros/wavs3/210.wav|はい、マスター、なんなりとごようけんを
+path/ikaros/wavs3/211.wav|ちゃんとマスターとつながっています
+path/ikaros/wavs3/212.wav|マスターのしんぱくすう、たいおんのじょうしょうをかくにん、あの、どうされたのですか
+path/ikaros/wavs3/213.wav|はい、めいどかつようものです、めいどにはひつようなものだと
+path/ikaros/wavs3/214.wav|おきにいりでしたら、マスターもつけられますか
+path/ikaros/wavs3/215.wav|あの、ひっぱられるとちょっと
+path/ikaros/wavs3/216.wav|つれていましたか、ありがとうございます
+path/ikaros/wavs3/217.wav|マスターにあたまをなでられると、なんだかふわふわします
+path/ikaros/wavs3/218.wav|はい、おぼんです、おちゃをおもちしましょうか
+path/ikaros/wavs3/219.wav|かたいです、はい、おぼんが
+path/ikaros/wavs3/220.wav|おぼんも、まっさーじでやわらかくなるのですか
+path/ikaros/wavs3/221.wav|おばんはごしょもうでしたら、マスターにさしあげますが
+path/ikaros/wavs3/222.wav|ではマスター、よろしくおねがいします
+path/ikaros/wavs3/223.wav|マスター、どうなされたのですか
+path/ikaros/wavs3/224.wav|あの、おしらべにならないのですか
+path/ikaros/wavs3/225.wav|マスター、できればまじめにしらべてほしいのですが
+path/ikaros/wavs3/226.wav|マスター、さきほどから、なにかようすがへんですが
+path/ikaros/wavs3/227.wav|はい、もっとしらべてください、マスター
+path/ikaros/wavs3/228.wav|すみません、わたしのきのせいだったみたいです
+path/ikaros/wavs3/229.wav|わたしはほんものでもにせものでも、どちらでもいいのですか
+path/ikaros/wavs3/230.wav|マスターがしょうきんをなくしてる、しっかりしてください
+path/ikaros/wavs3/231.wav|どうでしたか、わたしはいかろすになれていたでしょうか
+path/ikaros/wavs3/232.wav|マスターは、わたしがおきらいなのでしょうか
+path/ikaros/wavs3/233.wav|どうでしょう、なにかちがいはありましたでしょうか
+path/ikaros/wavs3/234.wav|マスターに触るられると、とてもあんしんします
+path/ikaros/wavs3/235.wav|においをかぐと、なにかわかるのですか
+path/ikaros/wavs3/236.wav|なでたかんしょくはどうですか
+path/ikaros/wavs3/237.wav|ふわふわして、ここちいいです
+path/ikaros/wavs3/238.wav|あー、もうおわりなのですか
+path/ikaros/wavs3/239.wav|みためにちがいはありますか
+path/ikaros/wavs3/240.wav|あの、もっとそうしてほしいです
+path/ikaros/wavs3/241.wav|マスターのてが、わたしに
+path/ikaros/wavs3/242.wav|どうですか、いつもとなにかちがうでしょうか
+path/ikaros/wavs3/243.wav|マスターにそうされると、ぽかぽかしてきます
+path/ikaros/wavs3/244.wav|あの、ひょうしょうにちがいがありましたか
+path/ikaros/wavs3/245.wav|はい、なんでしょう、マスター
+path/ikaros/wavs3/246.wav|あの、そんなにかおをちかづけられると
+path/ikaros/wavs3/247.wav|もうすこしマスターのかおみていてよろしいですか
+path/ikaros/wavs3/248.wav|もっと、じっくりみてください
+path/ikaros/wavs3/249.wav|なぜでしょう、かおがあつくなってきました
+path/ikaros/wavs3/250.wav|マスター、あの、そんなにみつめられると
+path/ikaros/wavs3/251.wav|マスター、そんなにふられてしまった、ちょっと
+path/ikaros/wavs3/252.wav|どうですか、かんしょくはいかがでしょうか
+path/ikaros/wavs3/253.wav|あ、マスターのゆびが
+path/ikaros/wavs3/254.wav|えがおは、こう、にやり
+path/ikaros/wavs3/255.wav|うん、くちのなか、どうでしたか
+path/ikaros/wavs3/256.wav|見られていると思うと、へんなかんじです
+path/ikaros/wavs3/257.wav|みみばかり触られると、ちょっとこまります
+path/ikaros/wavs3/258.wav|いきをかけられると、ますますします
+path/ikaros/wavs3/259.wav|うん、そんなにひっぱられるとその、こまります
+path/ikaros/wavs3/260.wav|どこかおかしかったですか
+path/ikaros/wavs3/261.wav|あの、ふくはおなじものなのですが
+path/ikaros/wavs3/262.wav|ぬいだほうがしらべやすいでしょうか
+path/ikaros/wavs3/263.wav|あ、はだとこすれてくすぐったいです
+path/ikaros/wavs3/264.wav|せいふくよごれていましたか、きづきませんでした
+path/ikaros/wavs3/265.wav|ふく欲しいでも、マスターのて、あたたかいです
+path/ikaros/wavs3/266.wav|りぼんはにあってるでしょうか
+path/ikaros/wavs3/267.wav|ちがいがみつかったのですか
+path/ikaros/wavs3/268.wav|リボンの結び方、なにかちがいますか
+path/ikaros/wavs3/269.wav|そんなにひっぱってしまうと、からまってしまいます
+path/ikaros/wavs3/270.wav|あねにへんなところがありましたか
+path/ikaros/wavs3/271.wav|おおきくしたほうがしらべやすいでしょうか
+path/ikaros/wavs3/272.wav|ささですか、あの、ありがとうございます
+path/ikaros/wavs3/273.wav|なでられると、なんだかうれしいです
+path/ikaros/wavs3/274.wav|エンジェロイドの、マスターとのきずなです
+path/ikaros/wavs3/275.wav|ひんぞくですから、ひんやりしているとおもいますが
+path/ikaros/wavs3/276.wav|マスターとのつながりをかんじます
+path/ikaros/wavs3/277.wav|どうです、なにかわかりましたか
+path/ikaros/wavs3/278.wav|あ、その、お気になさらす
+path/ikaros/wavs3/279.wav|すいかはいらないので、きーほるだーをつけました
+path/ikaros/wavs3/280.wav|なかみですか、なにもいっっていませんが
+path/ikaros/wavs3/281.wav|はい、かばんです
+path/ikaros/wavs3/282.wav|かばんをぬぐいてくださって、ありがとうございます
+path/ikaros/wavs3/283.wav|あの、がっこうへいくのは、にんげんらしいでしょうか
+path/ikaros/wavs3/284.wav|わたしも、マスターになでなでしてほしいです
+path/ikaros/wavs3/286.wav|はい、マスター
+path/ikaros/wavs3/288.wav|はい、せんせい
+path/ikaros/wavs3/290.wav|せんせい、ほかになにかごようじが
+path/ikaros/wavs3/291.wav|しんさつは、いつまでつづくのでしょうか
+path/ikaros/wavs3/292.wav|たいへんです、せんせいがおかしくなってしまいました
+path/ikaros/wavs3/293.wav|すみません、せんせいをうたがうなんて
+path/ikaros/wavs3/294.wav|わかりました、どうぞつづけてください
+path/ikaros/wavs3/295.wav|あの、おちゅうしゃをしておきます
+path/ikaros/wavs3/296.wav|こういうときは、たしかちょっときくと楚原さんが
+path/ikaros/wavs3/298.wav|せんせい、しんだんけっかはどうでしょうか
+path/ikaros/wavs3/301.wav|あ、マスターがいっってしまわれた
+path/ikaros/wavs3/302.wav|では、このどうりょくろのいっしょうは、一体なんなのでしょうか
+path/ikaros/wavs3/303.wav|おいしゃさんごっこ、わたしには、よくわかりませんでした
+path/ikaros/wavs3/304.wav|どうでしょうか
+path/ikaros/wavs3/305.wav|あの、つづけてください
+path/ikaros/wavs3/306.wav|そこは、だいじょうぶみたいです
+path/ikaros/wavs3/307.wav|あ、くすぐったいです
+path/ikaros/wavs3/308.wav|あ、なにかわかりましたか
+path/ikaros/wavs3/309.wav|あ、へいきです、どうかほかのばしょも
+path/ikaros/wavs3/310.wav|せんせい、なにかわかりましたか
+path/ikaros/wavs3/311.wav|からだがあついです
+path/ikaros/wavs3/312.wav|はい、だいじょうぶです、もんだいありません
+path/ikaros/wavs3/313.wav|あ、あ、おきになさらず
+path/ikaros/wavs3/314.wav|あ、すみません、いきなりだったので
+path/ikaros/wavs3/315.wav|おいしゃさんごっこ、をくが深いです
+path/ikaros/wavs3/316.wav|かみをしらべると、びょうきがわかるのですか
+path/ikaros/wavs3/317.wav|せんせいのてつき、やさしいです
+path/ikaros/wavs3/318.wav|なでられるとうれしいです、あ、しんさつでしたね
+path/ikaros/wavs3/319.wav|わたしのかおに、なにか、気になることがあるのでしょうか
+path/ikaros/wavs3/320.wav|えがおになれないのは、びょうきでしょうか
+path/ikaros/wavs3/321.wav|せんせい、かおがあつくなってしまいました
+path/ikaros/wavs3/322.wav|はい、ちゃんとみえてます、きのうはもんだいありません
+path/ikaros/wavs3/323.wav|せんせいにみつめられると、からだが、あつくなってしまいます
+path/ikaros/wavs3/324.wav|あの、そんなにみられると
+path/ikaros/wavs3/325.wav|くちのなかですかはい、はい、おねがいします
+path/ikaros/wavs3/326.wav|せんせいははいしゃさんだったのですか
+path/ikaros/wavs3/327.wav|しょくしんですか、おねがいします
+path/ikaros/wavs3/328.wav|あの、なにかへんですか
+path/ikaros/wavs3/329.wav|あの、くすぐったいです
+path/ikaros/wavs3/330.wav|まっさーじもしてくれるのですね
+path/ikaros/wavs3/331.wav|ふくをぬいだほうが、しんさつしやすいのでしょうか
+path/ikaros/wavs3/332.wav|ふくのうえからでもしんさつできるなんて、すごいです
+path/ikaros/wavs3/333.wav|しすてむすきゃんかいし、いそがないようです、マスター
+path/ikaros/wavs3/334.wav|せんせい、それは包帯ではありません
+path/ikaros/wavs3/335.wav|りぼん、わたしににあっているでしょうか
+path/ikaros/wavs3/336.wav|りぼんをごらんになりたいのですか、ではどうぞ
+path/ikaros/wavs3/337.wav|あねに興味がおありですか
+path/ikaros/wavs3/338.wav|これは、うまれたときからありますので
+path/ikaros/wavs3/339.wav|あ、だいじょうぶです、続けてください
+path/ikaros/wavs3/340.wav|つばさをひろげたほうが、しんさつしやすいでしょうか
+path/ikaros/wavs3/341.wav|これは、だいじなものです
+path/ikaros/wavs3/342.wav|するどいめすでも、きることはできません
+path/ikaros/wavs3/343.wav|くさりこしでも、なくもりがつたわってきます
+path/ikaros/wavs3/344.wav|だいていると、あんしんします
+path/ikaros/wavs3/345.wav|ちゅうしゃきのくっしょん、です
+path/ikaros/wavs3/346.wav|せんせいもだいてみますか、ふかふかです
+path/ikaros/wavs3/347.wav|これはほうたいです、治療に使うものです
+path/ikaros/wavs3/348.wav|せんせいが、けがをしたら、わたしがほうたいをまきます
+path/ikaros/wavs3/349.wav|ほうたいをつかうのは、おいしゃさんらしいとおもいます
+path/ikaros/wavs3/350.wav|ほうたいをひっぱると、たのしいのでしょうか
+path/ikaros/wavs3/351.wav|せんせい、てもとがくるわれたようですが
+path/ikaros/wavs3/352.wav|すこし、こまります
+path/ikaros/wavs3/353.wav|いや
+path/ikaros/wavs3/354.wav|せんせい、そのようなことは
+path/ikaros/wavs3/355.wav|せんせいは、いつもこんなことを
+path/ikaros/wavs3/356.wav|そんな
+path/ikaros/wavs3/357.wav|あの、それいじょうは
+path/ikaros/wavs3/358.wav|あの、なにを
+path/ikaros/wavs3/359.wav|しょうしょうやりすぎなのでは
+path/ikaros/wavs3/360.wav|かなしいです
+path/ikaros/wavs3/361.wav|これが、ひつようなことなら
+path/ikaros/wavs3/362.wav|せんせい、かおがにやけていますが
+path/ikaros/wavs3/363.wav|あ、おきになさらず
+path/ikaros/wavs3/364.wav|しすてむすきゃんかいしい、異常はないようです、せんせい
+path/ikaros/wavs3/365.wav|また、てすとでれてんをとってしまったのですね
+path/ikaros/wavs3/367.wav|だいじょうぶです、つぎはがんばりましょう
+path/ikaros/wavs3/370.wav|あの、つづきは
+path/ikaros/wavs3/371.wav|もう、おわりでしょうか
+path/ikaros/wavs3/372.wav|わたしが、ちゃんとしかってあげないと
+path/ikaros/wavs3/373.wav|こんかいは、許します
+path/ikaros/wavs3/374.wav|しかたのないこですね
+path/ikaros/wavs3/375.wav|わるいこには、おしりぺんぺんです
+path/ikaros/wavs3/376.wav|めえ、です
+path/ikaros/wavs3/377.wav|あ、すいかが
+path/ikaros/wavs3/378.wav|おかげでげんきがでました
+path/ikaros/wavs3/380.wav|はい、いっしょにがんばりましょう
+path/ikaros/wavs3/381.wav|あー、かていほうかいです
+path/ikaros/wavs3/382.wav|きもちいいです
+path/ikaros/wavs3/383.wav|やさしいきもちが、つたわってきます
+path/ikaros/wavs3/384.wav|あたたかいてですね
+path/ikaros/wavs3/385.wav|どうですか
+path/ikaros/wavs3/386.wav|らくになったかもしれません
+path/ikaros/wavs3/387.wav|はいとてもいいです
+path/ikaros/wavs3/388.wav|こんどはわたしにまっさーじをさせてくれませんか
+path/ikaros/wavs3/389.wav|からだがぽかぽかしてきます
+path/ikaros/wavs3/390.wav|やっぱり、やればできるこです
+path/ikaros/wavs3/391.wav|もうすこし、ちかづいてみてください
+path/ikaros/wavs3/392.wav|つかれが、ぜんぶとれていきます
+path/ikaros/wavs3/393.wav|あ、とてもじょうずです
+path/ikaros/wavs3/394.wav|かみがみだれていましたか
+path/ikaros/wavs3/395.wav|いいにおいですか、とくになにもつけてないですが
+path/ikaros/wavs3/396.wav|なでなでされるのは、しんせんです
+path/ikaros/wavs3/397.wav|かんじょうひょうげんは、にがてです
+path/ikaros/wavs3/398.wav|すべすべですか、ほめてもらえるとうれしいです
+path/ikaros/wavs3/399.wav|かおが、ほごろびます
+path/ikaros/wavs3/400.wav|はい、じっとみています
+path/ikaros/wavs3/401.wav|ずっとこのままで、いられたら
+path/ikaros/wavs3/402.wav|めのつかれがとれていきます
+path/ikaros/wavs3/403.wav|えがおになれるということは、とてもたいせつなことです
+path/ikaros/wavs3/404.wav|わたしのくちもとにな、にかついていますか
+path/ikaros/wavs3/405.wav|えがおのれんしゅう、ですかにより、なやり
+path/ikaros/wavs3/406.wav|うん、くすぐったいです
+path/ikaros/wavs3/407.wav|あ、そこは
+path/ikaros/wavs3/408.wav|どこか、へんでしたか
+path/ikaros/wavs3/409.wav|あ、りぼんがからまってましたか
+path/ikaros/wavs3/410.wav|りぼんのかんしょくが、すきなのですか
+path/ikaros/wavs3/411.wav|わたしのりぼんに、あいちゃくがあるのでしょうか
+path/ikaros/wavs3/412.wav|あねのまっさーじもしてくれるんですね
+path/ikaros/wavs3/413.wav|この後で、いっしょにさんぽに
+path/ikaros/wavs3/414.wav|じぶんのこころに、おおきなつばさがあること、わすれないでください
+path/ikaros/wavs3/415.wav|くさりが、きにいったのですか
+path/ikaros/wavs3/416.wav|たのしそうですね
+path/ikaros/wavs3/417.wav|あ、そんなにひっぱっては、あ
+path/ikaros/wavs3/418.wav|ほかにときのおやつをよういしてますから、これはだめです
+path/ikaros/wavs3/419.wav|いつまでも、だいていたいです
+path/ikaros/wavs3/420.wav|いっしょになでてみませんか
+path/ikaros/wavs3/421.wav|ねんいりにしてくれるんですね
+path/ikaros/wavs3/422.wav|そこ、よわいみたいです
+path/ikaros/wavs3/423.wav|あ、こんなこと
+path/ikaros/wavs3/424.wav|あまり、こまらせないでください
+path/ikaros/wavs3/425.wav|ごめんなさい、それいじょうは
+path/ikaros/wavs3/426.wav|かなしいです
+path/ikaros/wavs3/427.wav|ほかのところは
+path/ikaros/wavs3/428.wav|しかるべきでしょうか
+path/ikaros/wavs3/429.wav|ごめんなさい、よくわからないです
+path/ikaros/wavs3/430.wav|あー
+path/ikaros/wavs3/431.wav|なぜ、こんなことを
+path/ikaros/wavs3/432.wav|すこし、いたいです
+path/ikaros/wavs3/433.wav|いけないこ、です
+path/ikaros/wavs3/434.wav|これは、まっさーじといえるのでしょうか
+path/ikaros/wavs3/435.wav|おしおきしなくちゃ
+path/ikaros/wavs3/436.wav|とてもじょうずです
+path/ikaros/wavs3/439.wav|はい、りっぱなめいどになって、マスターにおつかえしたいです
+path/ikaros/wavs3/441.wav|マスター、さびしいです
+path/ikaros/wavs3/442.wav|わたし、なにかそしょうをしてしまったでしょうか
+path/ikaros/wavs3/443.wav|あの、マスター、どうかされたのですか
+path/ikaros/wavs3/444.wav|マスターのしんぱくすうがじょうしょうしています、あの、だいじょうぶですか
+path/ikaros/wavs3/445.wav|よかった、いつものマスターです
+path/ikaros/wavs3/446.wav|しんぱくすうていか、あんぜんりょういきまでとうたつ、あんしんしましたました
+path/ikaros/wavs3/447.wav|しょっくをあたえるとなおると、かいちょうさんがいっってましたので
+path/ikaros/wavs3/448.wav|マスターがこんらんしている、どうしたら
+path/ikaros/wavs3/449.wav|これで、りっぱなめいどになれるでしょうか
+path/ikaros/wavs3/451.wav|マスター、わたし、とてもうれしいです
+path/ikaros/wavs3/452.wav|マスター、いままでおせわになりました、ありがとうございます
+path/ikaros/wavs3/453.wav|ここを、こう、ですか
+path/ikaros/wavs3/454.wav|もっとちからをぬく、こうでしょうか
+path/ikaros/wavs3/455.wav|しせい、よくなりましたでしょうか
+path/ikaros/wavs3/456.wav|マスターは、めいどが、おすきなのでしょうか
+path/ikaros/wavs3/457.wav|はい、きれいなしせいになるように、がんばります
+path/ikaros/wavs3/458.wav|りっぱなめいどになって、マスターによろこんでほしいです
+path/ikaros/wavs3/459.wav|マスターのために、りっぱなめいどになってみせます
+path/ikaros/wavs3/460.wav|マスターがじきじきにしどうしてくださるなんて、こうえいです
+path/ikaros/wavs3/461.wav|マスターといっしょのじかん、なんだか、あんしんします
+path/ikaros/wavs3/462.wav|めいどのたしなみ、ですか、すみません、よくわからないです
+path/ikaros/wavs3/463.wav|すみません、よくわからないので、もうすこしおしえていただけますか
+path/ikaros/wavs3/464.wav|いらっしゃいませ、ごしゅじんさま、なににいたしますか
+path/ikaros/wavs3/465.wav|マスターは、わたしのかみがすきなのですか
+path/ikaros/wavs3/466.wav|おそれおおいです
+path/ikaros/wavs3/467.wav|ましたので、やさしくて、すきです
+path/ikaros/wavs3/468.wav|けしょう、したほうが、マスターはうれしいのでしょうか
+path/ikaros/wavs3/469.wav|てをとうして、マスターのやさしさがつたわってきます
+path/ikaros/wavs3/470.wav|えがおがきほん、むずかしいけど、がんばります
+path/ikaros/wavs3/471.wav|ました、おこまりでしたら、いつでもよんでください
+path/ikaros/wavs3/472.wav|はなすときには、あいてのめをみる、こうでしょうか
+path/ikaros/wavs3/473.wav|うわめすごい、しせいをひくくして、こうですか
+path/ikaros/wavs3/474.wav|そんなにみつめられるか、あの、その
+path/ikaros/wavs3/475.wav|ぶたがすきです、今夜にでも、こんよにでも、マスターにこもりうたを
+path/ikaros/wavs3/476.wav|えがおのつもりなのですが、みえませんか
+path/ikaros/wavs3/477.wav|はきはきとしたくちょうをこころがければいいのですね
+path/ikaros/wavs3/478.wav|あの、どうしていいかわかりません
+path/ikaros/wavs3/479.wav|マスター、とおかーおすきなように
+path/ikaros/wavs3/480.wav|すくみすめいどはさいきょうそうびだと、かいちょうさんがいっっていました
+path/ikaros/wavs3/481.wav|マスターのごちゅうもんとおりのふくそうですが、にあいますか
+path/ikaros/wavs3/482.wav|めいどどは、たくさんのマスターがいるんですね
+path/ikaros/wavs3/483.wav|みずぎとめいどふく、どちらがマスターのおこのみですか
+path/ikaros/wavs3/484.wav|マスターは、えぷろんがおすきなのですか
+path/ikaros/wavs3/485.wav|こしを、おとす、こうでしょうか
+path/ikaros/wavs3/486.wav|おしごとがしやすいように、かみをしぼっています
+path/ikaros/wavs3/487.wav|りぼん、にあうでしょうか、マスター
+path/ikaros/wavs3/488.wav|マスターにりぼんをなおしてもらえるなんて
+path/ikaros/wavs3/489.wav|めいどにはねがあるのは、その、へんですか
+path/ikaros/wavs3/490.wav|マスターも、こんどいっしょにそらをとんでみませんか
+path/ikaros/wavs3/491.wav|はねは、ひろげていたほうがよろしいでしょうか
+path/ikaros/wavs3/492.wav|わたしは、マスターだけのめいどです
+path/ikaros/wavs3/493.wav|ごめいれいをなになりと、まいマスター
+path/ikaros/wavs3/494.wav|マスターとのたいせつなつながりです
+path/ikaros/wavs3/495.wav|わたし、いつまでも、マスターのそばにいたいです
+path/ikaros/wavs3/496.wav|めいどきっさはもえだと、かいちょうさんがいっっていました
+path/ikaros/wavs3/497.wav|あの、にあっているでしょうか
+path/ikaros/wavs3/498.wav|めーるとは、ふくそうだけではなく、こころだと、なるほど
+path/ikaros/wavs3/499.wav|なでなでしてもらえて、とてもうれしいです
+path/ikaros/wavs3/500.wav|おのぞみでしたら、すぐにおのみものをおもちします
+path/ikaros/wavs3/501.wav|マスターのてきは、これでやっつけます
+path/ikaros/wavs3/502.wav|おぼんのもちかた、こうでしょうか
+path/ikaros/wavs3/503.wav|これでりっぱなめいどになれるのでしょうか
+path/ikaros/wavs3/504.wav|あの、そのようなことはちょっと
+path/ikaros/wavs3/505.wav|どうか、そのくらいでおゆるしください
+path/ikaros/wavs3/506.wav|いけません、マスター、そのようなことをされては
+path/ikaros/wavs3/507.wav|あの、これはしせいとかんけいあるのでしょうか
+path/ikaros/wavs3/508.wav|めいどどは、むずかしいものなのですね
+path/ikaros/wavs3/509.wav|えんじぇろいどは、マスターのめいれいはぜったい、です
+path/ikaros/wavs3/510.wav|わたし、マスターにいかられるようなことをしたのでしょうか
+path/ikaros/wavs3/511.wav|マスターのごめいれいは、ぜったいです
+path/ikaros/wavs3/512.wav|マスター、一体なにをするつもりなのですか
+path/ikaros/wavs3/513.wav|マスターがおのぞみなら
+path/ikaros/wavs3/514.wav|マスター、あの、どうして
+path/ikaros/wavs3/515.wav|マスター、なぜこのようなことを
+path/ikaros/wavs3/516.wav|これは、おしおき、なのでしょうか
+path/ikaros/wavs3/518.wav|だいじょうぶです、え、にんでたてます、あ、いった
+path/ikaros/wavs3/520.wav|はやく、がっこうにいかないと
+path/ikaros/wavs3/521.wav|あの、なにかきになるところがありますか
+path/ikaros/wavs3/522.wav|あの、なにかおくらせるようなこと、してしまったのでしょうか
+path/ikaros/wavs3/523.wav|いった、ちょっとひねってしまったようです
+path/ikaros/wavs3/524.wav|すみません、とりみだしてしまって
+path/ikaros/wavs3/525.wav|すみません、てあて、ありがとうございます
+path/ikaros/wavs3/526.wav|その、もうしわけございません
+path/ikaros/wavs3/527.wav|あ、だいじょうぶです、きにしないでください
+path/ikaros/wavs3/528.wav|てをかしてくれて、ありがとう、ございます
+path/ikaros/wavs3/529.wav|それでは、わたしはこれで
+path/ikaros/wavs3/532.wav|ごめんなさい、いそいでるので、これでしつれいします
+path/ikaros/wavs3/533.wav|あ、あの、そこは、だいじょうぶです
+path/ikaros/wavs3/534.wav|めだつけがはしていないようです
+path/ikaros/wavs3/535.wav|あ、だいじょうぶです
+path/ikaros/wavs3/536.wav|そこは、いたみはないです
+path/ikaros/wavs3/537.wav|そちらも、けがはありませんでしたか
+path/ikaros/wavs3/538.wav|やさしいてつきですね、いたみがやわらいできました
+path/ikaros/wavs3/539.wav|あなたも、つうがくのとちゅうなのでしょうか
+path/ikaros/wavs3/540.wav|なんだかどきどきします
+path/ikaros/wavs3/541.wav|なんだかこうしていると、暖かいきもちになります
+path/ikaros/wavs3/542.wav|おとこのにんにこんなにちかづいたのは、はじめてです
+path/ikaros/wavs3/543.wav|あの、かおをよくみせてもらってもいいでしょうか
+path/ikaros/wavs3/544.wav|おなじがっこうの人、だったりするんでしょうか
+path/ikaros/wavs3/545.wav|なにか、ついてましたか
+path/ikaros/wavs3/546.wav|かるくうってしまいました
+path/ikaros/wavs3/547.wav|あたまはけがしていません
+path/ikaros/wavs3/548.wav|やさしく、みてくれるんですね
+path/ikaros/wavs3/549.wav|あ、その、いいえ、ちょっとおどろいただけです
+path/ikaros/wavs3/550.wav|かおに、なにかついてますか
+path/ikaros/wavs3/551.wav|びっくりしました
+path/ikaros/wavs3/552.wav|わたしのかおが、どうかしたんですか
+path/ikaros/wavs3/553.wav|そんなにちかづかれると、てれてしまいます
+path/ikaros/wavs3/554.wav|ち
+path/ikaros/wavs3/555.wav|すみません、あまりみられるのになれてないもので
+path/ikaros/wavs3/556.wav|あの、どこかでおあいしたでしょうか
+path/ikaros/wavs3/557.wav|くすぐったいです
+path/ikaros/wavs3/558.wav|これはへっどふぉんです
+path/ikaros/wavs3/559.wav|み、みみはよわいです
+path/ikaros/wavs3/560.wav|はい、なんでしょうか
+path/ikaros/wavs3/561.wav|せいふくは、破けてないでしょうか
+path/ikaros/wavs3/562.wav|あなたがかばってくれたおかげで、たすかりました
+path/ikaros/wavs3/563.wav|とくによごれてませんか、よかった
+path/ikaros/wavs3/564.wav|あの、せいふくをひっぱられると、こまります
+path/ikaros/wavs3/565.wav|これはかばんです、いろいろいっっています
+path/ikaros/wavs3/566.wav|だんせいは、じょせいのもちものにきょうみをしめすものなのですね
+path/ikaros/wavs3/567.wav|あ、わたしのかばんもわたしのようです
+path/ikaros/wavs3/568.wav|よかった、きずはついていないようです
+path/ikaros/wavs3/569.wav|このりぼんは、おきにいりなんです
+path/ikaros/wavs3/570.wav|わすれたり、していませんか
+path/ikaros/wavs3/571.wav|にあいますか、ありがとうございます
+path/ikaros/wavs3/572.wav|だいじょうぶです、りぼんはよごれてはいませんので
+path/ikaros/wavs3/573.wav|あねは、こうそくいはんなのでしょうか
+path/ikaros/wavs3/574.wav|いちおう、ちいさくすることもできるのですが
+path/ikaros/wavs3/575.wav|はねがよごれなくてよかったです
+path/ikaros/wavs3/576.wav|はねにもいろいろあります、あまりみかけたことはないですか
+path/ikaros/wavs3/577.wav|これは、ちょっとしょういきのあくせさりーです
+path/ikaros/wavs3/578.wav|すみません、このくすりは、はずしてはいけないのです
+path/ikaros/wavs3/579.wav|すみません、ひっぱらないでください
+path/ikaros/wavs3/580.wav|あの、このくさりがめずらしいのでしょうか
+path/ikaros/wavs3/581.wav|なにをするつもりなのでしょうか
+path/ikaros/wavs3/582.wav|すみません、なにをしたいのか、よくわかりません
+path/ikaros/wavs3/583.wav|あの、やめていただけますか
+path/ikaros/wavs3/584.wav|あの、てつきがちょっときになるのですが
+path/ikaros/wavs3/585.wav|あ、いいえ、へいきですから
+path/ikaros/wavs3/586.wav|いたい、です
+path/ikaros/wavs3/587.wav|それくらいに、していただけますか
+path/ikaros/wavs3/588.wav|へいきです、じぶんでたてますから
+path/ikaros/wavs3/589.wav|あの、わたしはもう、だいじょうぶですから
+path/ikaros/wavs3/590.wav|ここは、けがとかんけいないですよね
+path/ikaros/wavs3/591.wav|すこし、こわいです
+path/ikaros/wavs3/592.wav|なんだか、すこしふあんです
+path/ikaros/wavs3/600.wav|いえ、大丈夫です
+path/ikaros/wavs3/601.wav|おはようございます、マスター
+path/ikaros/wavs3/602.wav|お困りですか、マスター
+path/ikaros/wavs3/603.wav|はい
+path/ikaros/wavs3/604.wav|マスター
+path/ikaros/wavs3/605.wav|命令の中止はできません
+path/ikaros/wavs3/606.wav|私はマスターのそばにいたいです、これからもずっと
+path/ikaros/wavs3/607.wav|すみません、マスター
+path/ikaros/wavs3/608.wav|そうだ、い倍頑張って、マスターに褒めてもらうによになったら、きっと
+path/ikaros/wavs3/609.wav|ニムフ、こちの空は広いわ
+path/ikaros/wavs3/610.wav|噓は、だめですか
+path/ikaros/wavs3/611.wav|マスターのこ命令だから
+path/ikaros/wavs3/612.wav|簡単じゃない...だって、私、ニムフが笑うところも、見たことない
+path/ikaros/wavs3/613.wav|見たことないわ
+path/ikaros/wavs3/614.wav|私が戦闘用だから
+path/ikaros/wavs3/615.wav|何で、笑えないのかな
+path/ikaros/wavs3/616.wav|顔だけ
+path/ikaros/wavs3/617.wav|お目覚めですか、マスター
+path/ikaros/wavs3/618.wav|してる
+path/ikaros/wavs3/619.wav|それが
+path/ikaros/wavs3/620.wav|プールか使用禁止になったので、着替えにいくで
+path/ikaros/wavs3/621.wav|いただきます
+path/ikaros/wavs3/622.wav|カード起動
+path/ikaros/wavs3/623.wav|お風呂にしますか
+path/ikaros/wavs3/624.wav|マスターは山に行きました
+path/ikaros/wavs3/625.wav|無理しないで
+path/ikaros/wavs3/626.wav|おはようございます、マスター
+path/ikaros/wavs3/627.wav|楽しいそうね
+path/ikaros/wavs3/628.wav|おつがいですか
+path/ikaros/wavs3/629.wav|結婚式
+path/ikaros/wavs3/630.wav|大丈夫、これで
+path/ikaros/wavs3/631.wav|マスターが
+path/ikaros/wavs3/632.wav|マスター、大丈夫でしょうか
+path/ikaros/wavs3/633.wav|そうだ、トイレはノック
+path/ikaros/wavs3/634.wav|プロポーズが
+path/ikaros/wavs3/635.wav|家の中で
+path/ikaros/wavs3/636.wav|マスター、大丈夫ですか
+path/ikaros/wavs3/637.wav|何ですか、これは
+path/ikaros/wavs3/638.wav|いいのかな、こんなに幸せで
+path/ikaros/wavs3/639.wav|つらくなければいいけど
+path/ikaros/wavs3/640.wav|大切なお話しがあります
+path/ikaros/wavs3/641.wav|私は、マスターといると、何というか、心がふわふわ永久するのですけど
+path/ikaros/wavs3/642.wav|私は、愛が、わからないです
+path/ikaros/wavs3/643.wav|友達、いません
+path/ikaros/wavs3/644.wav|あの、マスター、眠るとは、というものなのてしょか、私たちエンジェロイドは、眠るようには作ら れていなくて
+path/ikaros/wavs3/645.wav|平気です
+path/ikaros/wavs3/646.wav|早く相談しないと
+path/ikaros/wavs3/647.wav|楚原さん
+path/ikaros/wavs3/648.wav|楚原さん、あの
+path/ikaros/wavs3/649.wav|いえ、まさか自分でも
+path/ikaros/wavs3/701.wav|今から言うことは、 稲妻幕府しゃぶ業神里家の肩書に ふさわしくないものかもしれません。 ですが、 あなたは私のわがままを受け入れてくださる方だと信じています。 少々 疲れてしまいました。 あなたの肩に寄りかかっても 宜しいでしょうか？ 少しだけで いいので。
+path/ikaros/wavs3/702.wav|かつて神里家は 国宝級の投稿を守れなかったことで大打撃を受けました。 ファウェイの関係にかかれ、 多くの進化を失い、 あなたの罰を受けたのです。 お父様はその重圧のせいで急激に衰え、 神里家の幕府においてのチームは急落していきました。 幸い、 お兄様が家業を継いでから搬解することができましたが、 一族が復興して一致団結を保っている今も 重要な場面は 未だにお兄様に頼るしかございません。
+path/ikaros/wavs3/703.wav|私についてきてくれますか？ そう遠くありませんので それほどお時間は取らせません。 あなたの誕生日を知ってから 事前に準備をしていたのです。 私の勝手な想像ですが、 どんなに高貴な贈り物よりも この方が 私たちの関係に合っていると考えました。 今回は 私の計算部は あなたへ送ります。 では 参ります。
+path/ikaros/wavs3/704.wav|素直になるというのは 非常に難しいことです。 私は神里家の長女として、 無数の注目と期待を浴びせられています。 それに答えるため 常に完璧な姿勢で、い続けることを自分に戒めてきました。 そんな私が 自分の願いを追求してしまっても いいのでしょうか？ 私の気持ちを あなたに理解してもらっても いいのでしょうか？
+path/ikaros/wavs3/705.wav|私にとって お母様はとても大きな存在でした。 どのような局面に陥ろうと落ち着いた笑顔を見せ、 神里家の業務を淡々と取り仕切る 端正で優雅な姿、 完璧という概念の化身といっても 過言ではございません。 お母様が去ったあの瞬間から、 私は感じたのです。 もうお母様の後ろに隠れているだけの子供ではいられないと。
+path/ikaros/wavs3/706.wav|時はなす。 各下釜と思えども 世のことなれば とどめ、加熱も 申し訳ございません。 喜ばしいと思うべきこの時に、 こんなに悲しい歌を思い出してしまいました。 あなたと過ごす時間があまりにも心地よく 失うのが怖いと感じてしまったのです、 本当に すごいですね。
+path/ikaros/wavs3/707.wav|神里家の当主として、 お兄様は平素より 数々の場所に出向いています。 私もお兄様の重荷を負担しようと尽力しているのですが、 それでも 長年蓄積した疲労を緩和させてあげることはできませんでした。 あー 妹のためだと思って 体には気をつけてと あなたからもお兄様に言ってください。
+path/ikaros/wavs3/708.wav|多くの方々が私を傾聴してくださるのは、 私は 白崎の姫君は シャブ業神里家の令嬢として見ているからです 彼らが傾聴しているのは私の立場であった 綾香という個人とは関係ございません。 ですので、 私と本当に近しい関係になれるお方は、 おそらく。
+path/ikaros/wavs3/709.wav|鹿野園さんですか。 彼は九条さんと同じように 点量不良の人間です。 彼も 自分の心情を持っているお方です。 その心情を守る執着心は 九条さんよりも強いかもしれません。 ただ、 何を持って慎重と言うべきか、は ちかのいんさんのみが知ることでしょう。
+path/ikaros/wavs3/710.wav|町内で枯れた桜を見たことはございますか？ この 枯れるという美があるからこそ、 春に咲き誇る姿を想像できるのです。 しかし ほかの方はそう思っていません。 枯れた桜はすぐに取り除かれてしまいます。 一度でもいいので、 それらがまたサックス姿を見てみたいものですね。
+path/ikaros/wavs3/711.wav|無双の人たちを見ても生き延びられたこと、 それだけでも偉業と言えるでしょう。 私にとってあのお方は 本物の神であり、 稲妻の命運を一瞬にして変えることのできる存在です。 しかし、 もし、あの方とあなたが衝突した場合、 私は必ず あなたを選びます。
+path/ikaros/wavs3/712.wav|やえ様の紹介は私もよく分かりませんが、 偶然ではないでしょうか？ 彼女がいるといつも安心できます。 お祭りは色々と気を使わないといけませんし、 お布施もあまり良くはありませんが、 やえ様が営んでいる産業は風魔を保ちつつも 良い収益を得ています。
+path/ikaros/wavs3/713.wav|食べられる機会は少ないのですが、 私は 異国料理に興味がございます。 稲妻料理に限定するなら お茶漬けが好きです。 しかし、 一般のお客様にお茶漬けをすする姿はお見せできません。 あなたに教えたのも 内緒ですよ。
+path/ikaros/wavs3/714.wav|私と重、洲様は かねて、より協力関係を続けてきました。 お祭りの開催は非常に手間がかかる上、 収益もそれほど良いものではございません。 しかし、 重富士様が仕切られた授業は 夕方を保ちながら 収益化にも成功されています。
+path/ikaros/wavs3/715.wav|稲妻幕府、しゃぶ業神里家、 皆様の名門にして人 分量の一つとして 再稼働や 人道芸術などの管理を担っています。 両親が亡くなってからは 私とお兄様が 一族の業務を受け継ぎました。
+path/ikaros/wavs3/716.wav|検量部業に就き、従う九条さら 彼女はいつも真剣な顔をしていますね。 私も彼女と 幾度か口論になったことがございます。 しかし、 彼女の本質は忠義によるもの、 その点だけは否定できません。
+path/ikaros/wavs3/717.wav|あなたの要求は 私にとって特別な物です。 あなたを友人と見なした以上、 私も紳士に向き合う必要がございます。 しかし、 上里家の秘密については どうか 楽しないようお願いします。
+path/ikaros/wavs3/718.wav|神の目、 それは太子を抱く者に与えられる証です。 私の志ですか？ それは いいえ、 やはり秘密にさせてください。 些細な夢に過ぎませんので。
+path/ikaros/wavs3/719.wav|今の私は 皆さんから信頼される人になりたいと思っています。 その気持ちを鼓舞する者は 肩にのしかかる重責でも 他人からの期待でもございません。 あなたがすでに そのようなお方だからです。
+path/ikaros/wavs3/720.wav|の読みですか。 そうですね。 この世に生きる以上、 必然的に数々の不満に遭遇するでしょう。 しかし、 自分のことで周囲の方を心配させるのは やはり私にはできません。
+path/ikaros/wavs3/721.wav|機会がございましたら、 あなたと共に異国のお祭りを過ごしてみたいです。 その地の風習、 礼儀作法、 お勧めのお土産など、 それら全てをこの私に ご教示頂けませんでしょうか。
+path/ikaros/wavs3/722.wav|将軍様のお考え、 それは 私ども配下が議論できることではございません。 ただ 永遠を追い求める道において、 孤独を感じることもあるかもしれませんね。
+path/ikaros/wavs3/723.wav|トーマは私の大切な友人です。 彼の明るさと陽気さには いつも感化されてきました。 ある意味 彼はもう人の兄のような存在で、 すでに神里家の一員だとも思っています。
+path/ikaros/wavs3/724.wav|ますます余裕を感じられるようになりました。 射部業の事務を片付ける傍ら 新しいことにも挑戦できるほどです。 最近作ってみたお菓子を 試食してみていただけませんか？
+path/ikaros/wavs3/725.wav|この雪の 気残る時にいざゆかな 山立花の みのてるもみん 美しい景色には やはりお茶がなくてはいけませんね。
+path/ikaros/wavs3/726.wav|時間が空いていらしたら、 共に木漏れ茶屋に行ってみませんか？ こんな穏やかな日は 佐藤の心得を通じて交流するのも、 また一興かもしれませんよ。
+path/ikaros/wavs3/727.wav|万物には魂が宿る。 皆様の人々は 皆そう信じています。 自然の景色を語る上で、 避けられない概念、と言えるでしょう。
+path/ikaros/wavs3/728.wav|このところ、 さゆちゃんはあなたに迷惑をかけていないでしょうか？ 彼女がサボっているところを見かけたら、 私に言ってくださいね。
+path/ikaros/wavs3/729.wav|ただ、 楽にすることはさすがにできません。 ブラン、 ここで時を過ごせることは、 私にとってとてもありがたいことです。
+path/ikaros/wavs3/730.wav|感謝いたします。 あなたとの出会わせから 色々な物が学べました。 剣術においても 更に上達することができると思います。
+path/ikaros/wavs3/731.wav|こんにちは。 就職の後は どうしても眠くなってしまいますね。 眠気を覚ますために 将棋などいかがでしょうか？
+path/ikaros/wavs3/732.wav|作者の目を通し、 まるでその世界を実際に目にしてきたかのように 見慣れた景色にも 深い感動が芽生えたのです。
+path/ikaros/wavs3/733.wav|稲妻神里、龍立免許会殿、 神里綾香 参ります。 よろしくお願いします。
+path/ikaros/wavs3/734.wav|お間向きを感じられるものは何でも好きです。 科学の詩 以後将棋や踊り、 あなたも興味ございますでしょうか？
+path/ikaros/wavs3/735.wav|おはようございます。 旅人さん、 こうして朝の時間にあなたとお会いできると よい日を送れるような気がします。
+path/ikaros/wavs3/736.wav|本日は空が澄み渡っていて、 鳥のさえずりも聞こえてきます。 あなたの旅も きっと順調に進むことでしょう。
+path/ikaros/wavs3/737.wav|少々賑やかさには欠けますが、 人きりなら気兼ねなく、 それに一風変わったお祭りを楽しむことができます。
+path/ikaros/wavs3/738.wav|ご指導ありがとうございます。 あなたのおかげで 私は 自分の能力への理解をより深めることができました。
+path/ikaros/wavs3/739.wav|うん、 私の心配をしてくれてありがとうございます。 しかし、 あなたも無理をなさらないでくださいね。
+path/ikaros/wavs3/740.wav|課長風月は 私たちの知っている物事としてこの世に存在していますが、 それぞれに感情が宿っているはずなのです。
+path/ikaros/wavs3/741.wav|読むだけで悲しい気持ちになります。 もしかするとこれが 人々の言う芸術の力というものかもしれません。
+path/ikaros/wavs3/742.wav|よく、 射精一味 健全一如と言いますが、 刀とお茶にどのような関係があるのでしょうか？
+path/ikaros/wavs3/743.wav|それに、 最も重要なのは、 あなたとは 身分に固執しない関係でいたいのです。
+path/ikaros/wavs3/744.wav|番大切な方と、 佐藤の楽しさを分かち合える、 まるで夢でも見ているかのようです。
+path/ikaros/wavs3/745.wav|こののどかな時間がもっと増えると嬉しいのですが、 私って欲張りですね。
+path/ikaros/wavs3/746.wav|その経歴と比べれば、 シャブ業、神里家の令嬢などという肩書こそ 取るに足らないものでしょう。
+path/ikaros/wavs3/747.wav|はい、 トーマの言う通り、 点量不良が本当に何か準備をしているのでしたら、 一度休息を取りましょう。
+path/ikaros/wavs3/748.wav|この暖かな時間がもっと増えると嬉しいのですが、 うん、 私って欲張りですね。
+path/ikaros/wavs3/749.wav|このような料理を味わわせていただき ありがとうございます。 この足を心に留めておきます。
+path/ikaros/wavs3/750.wav|いいえ、 言い方を変えましょう。 私の食べたお抹茶を飲んではいただけませんか？
+path/ikaros/wavs3/751.wav|これが旅人さんの普段の暮らしですか？ うん、 またあなたに少し近づけた気がします。
+path/ikaros/wavs3/752.wav|これが旅人さんの普段の暮らしですか？ また、あなたに少し近づけた気がします。
+path/ikaros/wavs3/753.wav|お願いです。 もう少しだけお時間を頂けませんか？ あなたの好きなことについて話したいです。
+path/ikaros/wavs3/754.wav|はい、 私が趣のあるものを好むのは 最初は家の教えによるものでした。
+path/ikaros/wavs3/755.wav|ですので、 あなたに本物の稲妻抹茶を味わってもらい、 その評価についてお伺いしたいのです。
+path/ikaros/wavs3/756.wav|昔、 本で読んだことがございます。 モンドとリリアには 独特な茶文化があると。
+path/ikaros/wavs3/757.wav|目を閉じ、 風邪を感じてみてください。 どうですか？ 気持ちいいでしょ？
+path/ikaros/wavs3/758.wav|ただ、 死の細部を考えるたび、 作者の心情を感じ取ることができるようになりました。
+path/ikaros/wavs3/759.wav|夢と知っていれば目覚めるものを もう少し 一緒にいさせて欲しいのに。
+path/ikaros/wavs3/760.wav|刀はお茶と同じく、 丁寧に味わってこそ 本来のお守りが分かるものです。
+path/ikaros/wavs3/761.wav|刀は茶と同じく、 丁寧に味わってこそ、 本来の甘まきが分かるものです。
+path/ikaros/wavs3/762.wav|それに、ここはあなたのお住まい そこには 違った意味も込められています。
+path/ikaros/wavs3/763.wav|食べられないわけではございませんが、 動物の脂肪や内臓はちょっと。
+path/ikaros/wavs3/764.wav|あなたが来ると知っていれば、 もう少しお時間をかけておめかしをしたのですが。
+path/ikaros/wavs3/765.wav|私はあなたを 番大切な方として見ているだけですので。
+path/ikaros/wavs3/766.wav|少なくとも とてもロマンのある考え方であれた 私は思います。
+path/ikaros/wavs3/767.wav|こんばんは。 よかせが気持ちよく とてもいい夜ですね。
+path/ikaros/wavs3/768.wav|あなたとお話ができる機会に もっとあなたを理解したかったのですが。
+path/ikaros/wavs3/769.wav|しかし、お茶の研究に関しては 稲妻氏にも心がございます。
+path/ikaros/wavs3/770.wav|おかしいですね。 空っぽです。 他を当たりましょう。
+path/ikaros/wavs3/771.wav|はい、 では 茶道について語り合いませんか？
+path/ikaros/wavs3/772.wav|あなたの手を 握ってもよろしいでしょうか？
+path/ikaros/wavs3/773.wav|休んでいる間に 私も少々行いたいことがございます。
+path/ikaros/wavs3/774.wav|そのように振る舞っては 失礼にあたってしまうのでは？
+path/ikaros/wavs3/775.wav|私の作動への理解を深めることにもつながると思います。
+path/ikaros/wavs3/776.wav|将軍様？ 何か訴えているのでしょうか？
+path/ikaros/wavs3/777.wav|あ、 また自分のことばかり話してしまいました。
+path/ikaros/wavs3/778.wav|私にできることがあれば 何でもおっしゃってください。
+path/ikaros/wavs3/779.wav|どうやら 間違えてしまったようですね。
+path/ikaros/wavs3/780.wav|私と共に雨宿りをしましょう。
+path/ikaros/wavs3/781.wav|ご指導お願いいたします。

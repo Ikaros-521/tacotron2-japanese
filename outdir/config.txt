@@ -1,0 +1,4 @@
+..\tt2-model\5-105\checkpoint_12000
+..\waveglow_256channels_universal_v5.pt
+outdir\data.txt
+japanese_cleaners
