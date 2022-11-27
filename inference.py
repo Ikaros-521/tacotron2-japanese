@@ -20,11 +20,8 @@ import os
 
 # 配置文件存储于 outdir/config.txt，数据文件存储于 outdir/data.txt
 # config.txt文件内容分别为 checkpoint_path（模型路径），waveglow_path（waveglow模型路径），
-# data_filename（data文件路径，存放待合成的语句），text_to_sequence_type
+# data_filename（data文件路径，存放待合成的语句），text_to_sequence_type，output_dir（音频输出路径）
 my_config = "outdir\config.txt"
-# 输出音频目录
-# output_dir = ".\\outdir\\wavs"
-output_dir = ".\\outdir\\5-105"
 
 
 def plot_data(data, figsize=(16, 4)):
@@ -46,6 +43,9 @@ checkpoint_path = ""
 waveglow_path = ""
 data_filename = ""
 text_to_sequence_type = ""
+# 输出音频目录
+# output_dir = ".\\outdir\\wavs"
+output_dir = ".\\outdir"
 i = 0
 for line in fo.readlines():  # 依次读取每行
     text = line.strip()
@@ -57,6 +57,8 @@ for line in fo.readlines():  # 依次读取每行
         data_filename = text
     elif i == 3:
         text_to_sequence_type = text
+    elif i == 4:
+        output_dir = text
     i = i + 1
 # 关闭文件
 fo.close()
@@ -65,6 +67,7 @@ print("checkpoint_path = " + checkpoint_path)
 print("waveglow_path = " + waveglow_path)
 print("data_filename = " + data_filename)
 print("text_to_sequence_type = " + text_to_sequence_type)
+print("output_dir = " + output_dir)
 
 # checkpoint_path = "outdir/checkpoint_24000"
 model = load_model(hparams)

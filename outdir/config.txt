@@ -1,4 +1,5 @@
-..\tt2-model\5-105\checkpoint_12000
+..\tt2-model\4-161\checkpoint_36000
 ..\waveglow_256channels_universal_v5.pt
 outdir\data.txt
 japanese_cleaners
+outdir\video-4-161

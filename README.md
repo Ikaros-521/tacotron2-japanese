@@ -1,33 +1,50 @@
-# pycharm 本地过程记录
+# 前言
 操作系统：win10
 python版本：3.8.13  
-安装第三方库：pip install -r requirements.txt  
+安装第三方库：`pip install -r requirements.txt`  
 (最恶心的就是 pyopenjtalk，这个需要cmake等才行，反正一堆坑，我也不知道怎么搞好的。。。）
 装失败了pycharm提示后补装  
-目录How to use里面的pt文件需要下载，训练和合成的时候需要用到  
-python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start  
+目录How to use里面的2个pt文件需要下载，训练和合成的时候需要用到  
+`python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`  
 
-语音合成搭配 How to use中下载的模型文件 然后阅读“启动语音合成.md”，因为我用了conda，所以有一个activate启动虚拟环境。语音合成的配置文件的需求可以看inference.py里的说明，默认为 outdir目录下的config.txt（存放参数配置）和data.txt（存放需要合成的语句）这2个文件，进行批量语音合成。
+语音合成搭配 How to use中下载的模型文件 然后阅读“启动语音合成.md”，因为我用了conda，所以有一个activate启动虚拟环境。语音合成的配置文件的需求可以看`inference.py`里的说明，默认为 outdir目录下的`config.txt`（存放参数配置）和`data.txt`（存放需要合成的语句）这2个文件，进行批量语音合成。  
+`python inference.py`  
 
 ## 重要目录说明
-filelists 存放训练用音频路径和日文文本  
-filelists/ikaros 存放ikaros音频的训练用文本描述  
-outdir 输出训练结果路径&语音合成程序配置文件  
-path 存放数据集文件（音频文件）  
+`filelists` 存放训练用音频路径和日文文本  
+`filelists/ikaros` 存放ikaros音频的训练用文本描述  
+`outdir` 输出训练结果路径&语音合成程序配置文件  
+`path` 存放数据集文件（音频文件）  
 
 
-## 训练
+## 训练(无预训练模型)
 训练音频要求 
-python train.py --output_directory=outdir --log_directory=logdir  
+`python train.py --output_directory=outdir --log_directory=logdir`  
 
-# Tacotron2-Japanese
+## 数据集收集
+ikaros部分音频源自 天降之物F 梦幻季节的NDS游戏拆包提取 以及 动漫原声提取降噪。  
+使用`NDSTOOL`对nds游戏拆包，提取ahx文件，配合`ahx2mav`程序进行音频转换。
+可以参考：[https://blog.csdn.net/Ikaros_521/article/details/126250870](https://blog.csdn.net/Ikaros_521/article/details/126250870)  
+由于数据没有文字标注，这边是由群友螺丝开发的基于科大讯飞的一条龙音频文件文本识别程序。  
+由于API识别还是有出错的地方，需要手动二次排查结果。  
+另外语气词等部分不建议放入训练，所以数据集进行了干扰项的排除。  
+
+
+另外针对voicestock站点开发了web版本的批量数据爬取。（这个站点收录了很多声优的音频，还有日文标注，不过有的不是很准，也会有杂音，需要优化数据）  
+[voicestock 日本声优免费音源素材站点 数据爬取下载](https://www.bilibili.com/video/BV1DP411w7QZ)
+
+## 数据集处理
+针对数据集的优化，对音频音量进行均衡。我这开发了以下的python程序。  
+[基于ffmpeg开发的多音频文件音量均衡程序](https://ikaros.blog.csdn.net/article/details/128032824)  
+
+# Tacotron2-Japanese（官方文档）
 - Tacotron2 implementation of Japanese
 ## Links
 * Reference: [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
 * [Pre-training tacotron2 models](https://github.com/CjangCjengh/tacotron2-japanese#models)
 * [latest changes can be viewed in this repository](https://github.com/StarxSky/tacotron2-JP) 
 
-## How to use
+## How to use（其中2个模型文件需要下载，训练和合成需要用到）
 1. Put raw Japanese texts in ./filelists
 2. Put WAV files in ./wav
 3. (Optional) Download NVIDIA's [pretrained model](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing)
