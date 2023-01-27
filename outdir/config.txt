@@ -1,5 +1,5 @@
-..\tt2-model\4-161\checkpoint_36000
+..\tt2-model\luosi\ika3000
 ..\waveglow_256channels_universal_v5.pt
 outdir\data.txt
 japanese_cleaners
-outdir\video-4-161
+outdir\test2
