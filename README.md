@@ -1,4 +1,4 @@
-# 前言
+# 一、前言
 操作系统：win10
 python版本：3.8.13  
 安装第三方库：`pip install -r requirements.txt`  
@@ -38,7 +38,7 @@ ikaros部分音频源自 天降之物F 梦幻季节的NDS游戏拆包提取 以�
 [基于ffmpeg开发的多音频文件音量均衡程序](https://ikaros.blog.csdn.net/article/details/128032824)  
 
 
-# web API搭建
+# 二、web API搭建
 
 ## Ubuntu 无显卡 x86_64 py3.8
 安装第三方库：`pip install -r requirements_linux_cpu.txt`  
@@ -50,8 +50,11 @@ web API的搭建使用的FastAPI，需要安装下环境 `pip install fastapi uv
 
 然后后台运行api程序即可(默认监听端口：56789），例如`nohup python3 inference_linux_cpu_api.py > out.log 2>&1 &`  
 
+API调用：`http://<你的服务器公网ip，本机就127.0.0.1>:56789/tt2/content=こにちは`，`こにちは`就是待合成的日文　 
+（防火墙端口放行就不用在赘述了吧）  
 
-# Tacotron2-Japanese（官方文档）
+
+# 三、Tacotron2-Japanese（官方文档）
 - Tacotron2 implementation of Japanese
 ## Links
 * Reference: [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2)
