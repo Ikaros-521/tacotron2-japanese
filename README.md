@@ -1,4 +1,4 @@
-# 一、前言
+# <span id="jump1">一、前言</span>
 操作系统：win10
 python版本：3.8.13  
 安装第三方库：`pip install -r requirements.txt`  
@@ -10,18 +10,18 @@ python版本：3.8.13
 语音合成搭配 How to use中下载的模型文件 然后阅读“启动语音合成.md”，因为我用了conda，所以有一个activate启动虚拟环境。语音合成的配置文件的需求可以看`inference.py`里的说明，默认为 outdir目录下的`config.txt`（存放参数配置）和`data.txt`（存放需要合成的语句）这2个文件，进行批量语音合成。  
 `python inference.py`  
 
-## 重要目录说明
+## <span id="jump2">1.1 重要目录说明</span>
 `filelists` 存放训练用音频路径和日文文本  
 `filelists/ikaros` 存放ikaros音频的训练用文本描述  
 `outdir` 输出训练结果路径&语音合成程序配置文件  
 `path` 存放数据集文件（音频文件）  
 
 
-## 训练(无预训练模型)
+## 1.2 训练(无预训练模型)
 训练音频要求 
 `python train.py --output_directory=outdir --log_directory=logdir`  
 
-## 数据集收集
+## 1.3 数据集收集
 ikaros部分音频源自 天降之物F 梦幻季节的NDS游戏拆包提取 以及 动漫原声提取降噪。  
 使用`NDSTOOL`对nds游戏拆包，提取ahx文件，配合`ahx2mav`程序进行音频转换。
 可以参考：[https://blog.csdn.net/Ikaros_521/article/details/126250870](https://blog.csdn.net/Ikaros_521/article/details/126250870)  
@@ -33,14 +33,14 @@ ikaros部分音频源自 天降之物F 梦幻季节的NDS游戏拆包提取 以�
 另外针对voicestock站点开发了web版本的批量数据爬取。（这个站点收录了很多声优的音频，还有日文标注，不过有的不是很准，也会有杂音，需要优化数据）  
 [voicestock 日本声优免费音源素材站点 数据爬取下载](https://www.bilibili.com/video/BV1DP411w7QZ)
 
-## 数据集处理
+## 1.4 数据集处理
 针对数据集的优化，对音频音量进行均衡。我这开发了以下的python程序。  
 [基于ffmpeg开发的多音频文件音量均衡程序](https://ikaros.blog.csdn.net/article/details/128032824)  
 
 
 # 二、web API搭建
 
-## Ubuntu 无显卡 x86_64 py3.8
+## 2.1 Ubuntu 无显卡 x86_64 py3.8
 安装第三方库：`pip install -r requirements_linux_cpu.txt`  
 若cmake安装失败，单独装一下`pip install cmake`  
 
@@ -50,7 +50,9 @@ web API的搭建使用的FastAPI，需要安装下环境 `pip install fastapi uv
 
 然后后台运行api程序即可(默认监听端口：56789），例如`nohup python3 inference_linux_cpu_api.py > out.log 2>&1 &`  
 
-API调用：`http://<你的服务器公网ip，本机就127.0.0.1>:56789/tt2/content=こにちは`，`こにちは`就是待合成的日文　 
+相关的配置和前面基本一致，除了data_file不用了，参考 [前言](#jump1)
+
+API调用：`http://<你的服务器公网ip，本机就127.0.0.1>:56789/tt2/content=こにちは`，`こにちは`就是待合成的日文  
 （防火墙端口放行就不用在赘述了吧）  
 
 
