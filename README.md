@@ -45,6 +45,9 @@ ikaros部分音频源自 天降之物F 梦幻季节的NDS游戏拆包提取 以�
 若cmake安装失败，单独装一下`pip install cmake`  
 
 web API的搭建使用的FastAPI，需要安装下环境 `pip install fastapi uvicorn`  
+
+在本项目路径下，运行`cp -rf waveglow/glow_linux_cpu.py waveglow/glow.py`,覆盖下glow.py源码  
+
 然后后台运行api程序即可(默认监听端口：56789），例如`nohup python3 inference_linux_cpu_api.py > out.log 2>&1 &`  
 
 

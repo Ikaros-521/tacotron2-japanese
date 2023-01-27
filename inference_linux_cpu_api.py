@@ -15,7 +15,7 @@ from layers import TacotronSTFT, STFT
 from audio_processing import griffin_lim
 from train import load_model
 from text import text_to_sequence
-from waveglow.denoiser import Denoiser
+from waveglow.denoiser_linux_cpu import Denoiser
 
 from scipy.io.wavfile import write
 import os
