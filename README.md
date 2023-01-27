@@ -37,6 +37,17 @@ ikaros部分音频源自 天降之物F 梦幻季节的NDS游戏拆包提取 以�
 针对数据集的优化，对音频音量进行均衡。我这开发了以下的python程序。  
 [基于ffmpeg开发的多音频文件音量均衡程序](https://ikaros.blog.csdn.net/article/details/128032824)  
 
+
+# web API搭建
+
+## Ubuntu 无显卡 x86_64 py3.8
+安装第三方库：`pip install -r requirements_linux_cpu.txt`  
+若cmake安装失败，单独装一下`pip install cmake`  
+
+web API的搭建使用的FastAPI，需要安装下环境 `pip install fastapi uvicorn`  
+然后后台运行api程序即可(默认监听端口：56789），例如`nohup python3 inference_linux_cpu_api.py > out.log 2>&1 &`  
+
+
 # Tacotron2-Japanese（官方文档）
 - Tacotron2 implementation of Japanese
 ## Links
