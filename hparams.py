@@ -17,7 +17,7 @@ class create_hparams():
     ################################
     # Experiment Parameters        #
     ################################
-    epochs = 25
+    epochs = 100
     iters_per_checkpoint = 4000
     seed= 1234
     dynamic_loss_scaling = True
@@ -88,7 +88,7 @@ class create_hparams():
     learning_rate = 1e-3
     weight_decay = 1e-6
     grad_clip_thresh = 1.0
-    batch_size = 2
+    batch_size = 4
     mask_padding = True  # set model's padded outputs to padded values
 
 
